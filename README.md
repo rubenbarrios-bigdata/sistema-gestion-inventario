@@ -2,7 +2,7 @@
 
 Proyecto desarrollado en **Python y SQLite** como trabajo final integrador del curso **Iniciación a la Programación con Python**.
 
-El objetivo de la aplicación es administrar un inventario de productos mediante operaciones CRUD (Crear, Leer, Actualizar y Eliminar), utilizando una base de datos **SQLite** y una interfaz de usuario manejada a traves de Python, en este caso VSC.
+El objetivo de la aplicación es administrar un inventario de productos mediante operaciones CRUD (Crear, Leer, Actualizar y Eliminar), utilizando una base de datos **SQLite** y una interfaz de usuario manejada a traves de Python, en este caso VSCode.
 
 ## 🚀 Tecnologías utilizadas
 
